@@ -73,7 +73,10 @@ function DegreeCard(props) {
             style={{
               maxWidth: "100%",
               maxHeight: "100%",
-              transform: "scale(50%, 50%)",
+              mixBlendMode: "multiply",
+              filter: "contrast(1)",
+              transform: "scale(80%, 80%)",
+              borderRadius: "10px",
             }}
             src={require(`../../assests/images/${degree.logo_path}`)}
             alt={degree.alt_name}
@@ -97,6 +100,9 @@ function DegreeCard(props) {
             <div className="body-header-duration">
               <h3 className="duration" style={{ color: theme.text }}>
                 {degree.duration}
+              </h3>
+              <h3 className="duration" style={{ color: theme.text }}>
+                {degree.marks}
               </h3>
             </div>
           </div>

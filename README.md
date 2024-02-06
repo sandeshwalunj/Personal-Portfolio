@@ -1,9 +1,9 @@
 # opPortfolio
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/afea2508-00ca-464f-8f63-a4283928fc0f/deploy-status)](https://app.netlify.com/sites/hriship/deploys)
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FHrishi1999%2FopPortfolio)
-
-![opPortfolio](/images/portfolio.gif)
+![Screenshot (91)](https://github.com/sandeshwalunj/Personal-Portfolio/assets/85930930/d93063e2-cb7b-4672-a379-8f2f35b8b26e)
+![Screenshot (90)](https://github.com/sandeshwalunj/Personal-Portfolio/assets/85930930/9a1b7357-137a-4ef8-a49c-667acb4fa601)
+![Screenshot (89)](https://github.com/sandeshwalunj/Personal-Portfolio/assets/85930930/2bd5643d-6427-4c37-ae32-e0f1a0b1b76c)
+![Screenshot (88)](https://github.com/sandeshwalunj/Personal-Portfolio/assets/85930930/141b29c1-a519-4823-8c24-bccb8f205190)
 
 ### A clean portfolio template. (Readme will be updated soon)
 
