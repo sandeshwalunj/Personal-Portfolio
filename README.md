@@ -1,4 +1,4 @@
-# opPortfolio
+# Sandesh Portfolio
 
 ![Screenshot (91)](https://github.com/sandeshwalunj/Personal-Portfolio/assets/85930930/d93063e2-cb7b-4672-a379-8f2f35b8b26e)
 ![Screenshot (90)](https://github.com/sandeshwalunj/Personal-Portfolio/assets/85930930/9a1b7357-137a-4ef8-a49c-667acb4fa601)
